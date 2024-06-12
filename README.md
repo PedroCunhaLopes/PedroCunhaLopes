@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Pedro Lopes</h1>
+
 🚀 About Me
 Hello, I'm Pedro, I'm a computer engineering student at ESTIG, I'm a volunteer firefighter in the Viseu area and obsessed with technologies and technological advances !
 
