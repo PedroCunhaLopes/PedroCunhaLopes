@@ -18,6 +18,7 @@ At the moment, as I'm finishing my degree, I'm looking for an internship opportu
 <h3 align="left">Contacts:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pedrocunhalopes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pedrocunhalopes" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pedrocunhalopes" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://w7.pngwing.com/pngs/903/849/png-transparent-microsoft-outlook-outlook-com-email-outlook-on-the-web-hotmail-email-miscellaneous-blue-angle-thumbnail.png)" alt="pedrocunhalopes" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
