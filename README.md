@@ -18,7 +18,6 @@ At the moment, as I'm finishing my degree, I'm looking for an internship opportu
 <h3 align="left">Contacts:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pedrocunhalopes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pedrocunhalopes" height="30" width="40" /></a>
-<a href="pedro.cunha.lopes@hotmail.com" target="blank"><img align="center" src="https://download.logo.wine/logo/Outlook.com/Outlook.com-Logo.wine.png" alt="pedrocunhalopes" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
