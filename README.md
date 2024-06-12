@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Pedro Lopes</h1>
-- I'm a computer engineering student at **Estig**
+- I'm a computer engineering student at Estig
 
 - I'm a volunteer firefighter in **Sátão**
 
