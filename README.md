@@ -1,4 +1,4 @@
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgzPDtwpbARWRYlA1KHhGIu_fBnPJ4_oucSw&s" height="240" width="480">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgzPDtwpbARWRYlA1KHhGIu_fBnPJ4_oucSw&s">
 
 🚀 About Me
 Hello, I'm Pedro, I'm a computer engineering student at ESTIG, I'm a volunteer firefighter in the Viseu area and obsessed with technologies and technological advances !
