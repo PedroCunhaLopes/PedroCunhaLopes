@@ -13,7 +13,7 @@ Hello, I'm Pedro, I'm a computer engineering student at ESTIG, I'm a volunteer f
 
 💼 Professional Opportunities
 
-At the moment, as I'm finishing my degree, I'm looking for an internship opportunity to develop skills and continous learning.
+At the moment, as I'm finishing my degree, I'm looking for an internship opportunity to develop skills and continous learning new languages and more.
 
 <h3 align="left">Contacts:</h3>
 <p align="left">
